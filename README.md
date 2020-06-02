@@ -1,7 +1,7 @@
 # site-test
 Just a test area for **learning** purpose
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](download.png)
 
 Lista
 * Item 1
