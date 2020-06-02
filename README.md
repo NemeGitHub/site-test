@@ -10,7 +10,6 @@ Puoi anche inserire un [link a Google!](http://google.com)
 ## This is a tag
 ###### This is a tag
 
-Provo ad andare a capo fino <h6> a qui
 *This text will be italic*
 _This will also be italic_
 
