@@ -2,7 +2,6 @@
 Just a test area for **learning** purpose
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
 Lista
 * Item 1
