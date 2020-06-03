@@ -3,6 +3,12 @@ Just a test area for **learning** purpose
 
 >Citazione
 
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+
 ![GitHub Logo](download.png)
 
 Lista
