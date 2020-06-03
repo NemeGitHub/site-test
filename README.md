@@ -2,11 +2,12 @@
 Just a test area for **learning** purpose
 
 
-|Qui|Creo|Una|Tabella|
+|Qui metto|La prima|Riga di| una Tabella|
 |---|---|---|---|
-|Prova 1|
+|Qui|la|seconda|riga|
+|Qui|la|terza|riga|
 
-|Prova 2|
+
 
 
 
