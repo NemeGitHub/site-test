@@ -1,7 +1,9 @@
 # site-test
 Just a test area for **learning** purpose
 
-![GitHub Logo](download.png)(www.google.it)
+>Citazione
+
+![GitHub Logo](download.png)
 
 Lista
 * Item 1
@@ -9,7 +11,7 @@ Lista
   * Item 2a
   * Item 2b
   
-  Lista Ordinata
+Lista Ordinata
   
 1. Item 1
 1. Item 2
