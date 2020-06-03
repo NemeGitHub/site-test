@@ -13,6 +13,16 @@ Seconda Colonna: Prova 2
 Terza Colonna: Prova 3
 ---
 
+---
+title: "CAR-2013-01-002: Autorun Differences"
+layout: analytic
+submission_date: 2013/01/25
+information_domain: Analytic, Host
+subtypes: Registry
+analytic_type: Situational Awareness, TTP
+contributors: MITRE
+applicable_platforms: Windows
+---
 
 
 >Citazione
