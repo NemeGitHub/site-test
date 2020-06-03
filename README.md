@@ -4,8 +4,8 @@ Just a test area for **learning** purpose
 <div class="ana"></div> 
 
 >Citazione
-
 Evidenzazione del codice
+
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
