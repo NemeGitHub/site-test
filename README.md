@@ -9,6 +9,14 @@ Just a test area for **learning** purpose
       }
     }
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 ![GitHub Logo](download.png)
 
 Lista
