@@ -17,6 +17,10 @@ function fancyAlert(arg) {
 }
 ```
 
+def foo():
+    if not bar:
+        return True
+
 ![GitHub Logo](download.png)
 
 Lista
