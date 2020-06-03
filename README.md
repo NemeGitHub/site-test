@@ -1,4 +1,3 @@
-
 ---
 Prima Colonna: Prova 1
 Seconda Colonna: Prova 2
