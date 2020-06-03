@@ -1,3 +1,12 @@
+---
+Prima Colonna: Prova 1
+Seconda Colonna: Prova 2
+Terza Colonna: Prova 3
+---
+
+
+
+
 # site-test
 Just a test area for **learning** purpose
 
@@ -7,22 +16,6 @@ Just a test area for **learning** purpose
 |Qui|la|seconda|riga|
 |Qui|la|terza|riga|
 
----
-Prima Colonna: Prova 1
-Seconda Colonna: Prova 2
-Terza Colonna: Prova 3
----
-
----
-title: "CAR-2013-01-002: Autorun Differences"
-layout: analytic
-submission_date: 2013/01/25
-information_domain: Analytic, Host
-subtypes: Registry
-analytic_type: Situational Awareness, TTP
-contributors: MITRE
-applicable_platforms: Windows
----
 
 
 >Citazione
