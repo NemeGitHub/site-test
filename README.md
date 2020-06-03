@@ -1,4 +1,3 @@
-Se scrivo qua?
 
 ---
 Prima Colonna: Prova 1
