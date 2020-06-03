@@ -1,7 +1,12 @@
 # site-test
 Just a test area for **learning** purpose
 
-<div class="ana"></div> 
+
+|Analytic|ATT&CK Techniques|Implementations|Applicable Platform(s)|
+|---|---|---|---|
+
+
+
 
 >Citazione
 
