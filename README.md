@@ -2,7 +2,7 @@
 Just a test area for **learning** purpose
 
 
-|Analytic|ATT&CK Techniques|Implementations|Applicable Platform(s)|
+|Qui|Creo|Una|Tabella|
 |---|---|---|---|
 
 
